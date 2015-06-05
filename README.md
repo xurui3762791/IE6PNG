@@ -69,7 +69,7 @@ http://www.w3cfuns.com/thread-297-1-1.html
     dsds<br><br><br><br><br><br><br>
  </div>
 ```
-
+     
 
 ```css
 #pics{background:url(img/jslite.png) repeat-x;}
